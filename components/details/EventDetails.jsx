@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 const EventDetails = () => {
     return (
       <div className="col-span-3">
